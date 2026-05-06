@@ -1,2 +1,0 @@
-hallo word!
-hallo makabaka!
